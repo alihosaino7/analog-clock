@@ -73,6 +73,7 @@ body {
   width: 3px;
   height: 45%;
   background-color: red;
+  box-shadow: 3px 0 0 0.1px rgba(51, 51, 51, 0.24);
 }
 
 .clock .hand.minute {
